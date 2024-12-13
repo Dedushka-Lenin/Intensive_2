@@ -1,3 +1,7 @@
 # Intensive_2
 
-Второй интенсив
+Data - исходные базы
+
+processing\analyzer.ipynb - анализатор
+
+processing\asistent.ipynb - изменение и очистка
