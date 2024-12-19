@@ -1,7 +1,7 @@
 # Intensive_2
 
-Data - исходные базы
+data - исходные базы
 
 processing\analyzer.ipynb - анализатор
 
-processing\asistent.ipynb - изменение и очистка
+processing\PaF.ipynb - изменение и очистка
